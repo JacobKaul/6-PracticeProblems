@@ -47,7 +47,7 @@ function isOdd() {
 fizzBuzz();
 
 // 3
-    document.write("<br>");
+document.write("<br>");
 document.write("3.");
-    document.write("<br>");
+document.write("<br>");
 
